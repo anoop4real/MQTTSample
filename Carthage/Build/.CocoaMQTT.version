@@ -1,0 +1,9 @@
+{
+  "commitish" : "4ef7bdcf3f0a754790dab8bff86dec67a695ee3c",
+  "iOS" : [
+    {
+      "name" : "CocoaMQTT",
+      "hash" : "c484ab342e1e556c38c2f171670c5f3c481d1d3e22b08cc3b323eab15413993e"
+    }
+  ]
+}
